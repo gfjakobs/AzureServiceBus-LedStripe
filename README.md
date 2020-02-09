@@ -2,7 +2,9 @@
 Reads of AzureService Bus and flash an animation on the ledstrip.
 
 Color Code in Hex, like 0x7CFC00 for Red.
+
 Effect: These effects are implemented: Wipe, Strobe, Metor
+
 
 Format on message from service bus:
 {
